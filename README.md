@@ -7,6 +7,8 @@
 6. Transactions - 2PC, 3PC, Saga
 9. Unique ID generation (Snowflake)
 10. Clustered Computing like Spark
+11. Rate Limiting & Throttling
+12. Circuit Breaker
 
 # Network
 1. CDN
